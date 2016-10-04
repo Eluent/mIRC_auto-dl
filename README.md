@@ -1,2 +1,1 @@
-# mIRC_auto-dl
-Autodownload files from channel on mIRC
+mIRC_auto-dl is a project that aims to provide windows users scripts to auto download files from a channel according to filters. It requires a recent version of mIRC, gnu wget windows 1.18 (https://eternallybored.org/misc/wget/) AND some manual setup such as described in the scripts themselves
